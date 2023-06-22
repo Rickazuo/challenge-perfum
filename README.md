@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Criação de uma página responsiva de um produto (perfume).
 
-_<h2 align="center" ><a href="https://rickazuo.github.io/challenge-perfum/" target="_blank">Visite o projeto online</a></h2>_
+_<h2 align="center" ><a href="https://rickazuo.github.io/challenge-perfume/" target="_blank">Visite o projeto online</a></h2>_
 
 ## 📃 Collaborator
 
